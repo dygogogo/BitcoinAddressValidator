@@ -1,4 +1,4 @@
-package main;
+package com.dygogogo;
 
 import java.math.BigInteger;
 import java.nio.charset.StandardCharsets;

@@ -1,4 +1,4 @@
-import main.BitcoinAddressValidator;
+import com.dygogogo.BitcoinAddressValidator;
 import org.junit.Test;
 import static org.junit.Assert.*;
 
